@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://icylucio-cpu.github.io/sitemap.xml
